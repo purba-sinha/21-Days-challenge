@@ -8,3 +8,7 @@ i want to be consistent in skill learning for 3 hours everyday minimum and docum
 - k-fold cross validation
 - confusion matrix and its metrics.
 - Basic syntax, comments, operators, keywords in R.
+
+# Day 2
+1
+-learned about map(), fiter() functions in python as well as string formatting and f strings.
