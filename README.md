@@ -15,4 +15,4 @@ i want to be consistent in skill learning for 3 hours everyday minimum and docum
 
 # Day 3 
 0
--not done anything so far today 
+-not done anything today 
