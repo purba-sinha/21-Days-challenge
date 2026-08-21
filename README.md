@@ -16,3 +16,6 @@ i want to be consistent in skill learning for 3 hours everyday minimum and docum
 # Day 3 
 0
 -not done anything today 
+
+# Day 4
+- hahahahahahahha i hate myself lol
