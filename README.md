@@ -1,2 +1,2 @@
-# 21-Days-challenge
+# 21-Days
 24-08-26
