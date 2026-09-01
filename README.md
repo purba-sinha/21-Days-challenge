@@ -7,3 +7,8 @@
 - variance, bias in ML
 - bias-variance tradeoff
 - specificity and sensitivity in ML
+
+1 september:
+- about prolog: predicates, inbuilt predicates, arguements, arity of the predicates.
+- about non-linear regression, estimating parametres in logistic regression model.
+- about geometric and negative binomial distribution.
