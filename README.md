@@ -12,3 +12,5 @@
 - about prolog: predicates, inbuilt predicates, arguements, arity of the predicates.
 - about non-linear regression, estimating parametres in logistic regression model.
 - about geometric and negative binomial distribution.
+
+- 12 days gpne
